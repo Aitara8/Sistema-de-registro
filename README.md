@@ -2,6 +2,6 @@
 
 - Estado de proyecto en construcción 
 
-Para ejcutar el sistema, debes poner: 
+Para ejecutar el sistema, debes poner: 
 
 ```npm install react```
